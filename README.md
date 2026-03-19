@@ -8,6 +8,8 @@ The work is shared as an objective transparency effort. Its purpose is not to ad
 
 - `Community Transparency report on the proposed armory data center.docx`
   Final report document.
+- `Community Transparency report on the proposed armory data center.pdf`
+  Final report PDF
 - `Armory Data center project tables and calculations.xlsx`
   Supporting workbook containing tables, calculations, and data used in the analysis.
 
