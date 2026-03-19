@@ -26,14 +26,14 @@ The following Tableau dashboards were created as part of the project:
 
 The report and supporting analysis currently cover:
 
-- estimated electricity demand associated with the proposed facility
-- residential electricity bill context in Ameren Missouri territory
-- population context in St. Louis City
-- comparison with existing local data centers
-- proximity to nearby sensitive institutions
-- scenario-based backup generator emissions
-- noise context based on source-level estimates, local ordinance tables, and EPA guidance
-- zoning and land use context
+- Estimated electricity demand associated with the proposed facility
+- Residential electricity bill context in Ameren Missouri territory
+- Population context in St. Louis City
+- Comparison with existing local data centers
+- Proximity to nearby sensitive institutions
+- Scenario-based backup generator emissions
+- Noise context based on source-level estimates, local ordinance tables, and EPA guidance
+- Zoning and land use context
 
 ## Sources Referenced in the Report
 
